@@ -8,3 +8,9 @@
 <img alt="Keras" src ="https://img.shields.io/badge/Keras-D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white"/> <img alt="TensorFlow" src ="https://img.shields.io/badge/TensorFlow-FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white"/>
 </p>
 
+<p align="center"><i>2016.03 - 2020.02 정보통신공학과 학사</i></p>
+
+<p align="center"><i>2020.03 - 2022.02 전기컴퓨터공학과 정보통신공학 석사</i></p>
+
+<p align="center"><i>2022.01 - SSAFY 7기</i></p>
+
