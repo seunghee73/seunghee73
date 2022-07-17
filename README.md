@@ -12,5 +12,5 @@
 
 <p align="center"><i>2020.03 - 2022.02 전기컴퓨터공학과 정보통신공학 석사</i></p>
 
-<p align="center"><i>2022.01 - SSAFY 7기</i></p>
+<p align="center"><i>2022.01 - 2022.07 SSAFY 7기</i></p>
 
